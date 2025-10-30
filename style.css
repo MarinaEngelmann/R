@@ -40,5 +40,20 @@ body{
 }
 
 .raul-img figure img{
-    width: 600%;
+    width: 100%;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.biografia h2 {
+    border-left: 5px solid #787a8c;
+    padding: 12px;
+    margin: 20px auto;
+    font-size: 1.8rem;
+}
+
+.biografia p {
+    margin: 20px 0px;
 }
